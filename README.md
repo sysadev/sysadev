@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sysadev" alt="sysadev" /></a> </p>
 
-- 👨‍💻 All of my projects are available at **[https://sysa.pages.dev](https://sysa.pages.dev)**
+- 👨‍💻 All of my projects are available at **[https://sysa.pages.dev/projects/](https://sysa.pages.dev/projects/)**
 
 - 📝 I write articles on **[https://sysa.pages.dev/blog/](https://sysa.pages.dev/blog/)**
 
