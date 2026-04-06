@@ -2,11 +2,11 @@
 
 # Hi 👋, I'm Shuaib Yusuf Shuaib
 
-<img align="center" src="https://github-profile-trophy-liard-delta.vercel.app/?username=sysadev" alt="sysadev">
+<img align="center" src="https://github-profile-repo.vercel.app/?username=sysadev" alt="sysadev">
 
-- 👨‍💻 All of my projects are available at **[https://sysa.pages.dev/projects/](https://sysa.pages.dev/projects/)**  
-- 📝 I write articles on **[https://sysa.pages.dev/blog/](https://sysa.pages.dev/blog/)**  
-- 📄 Know about my experiences **[https://sysa.pages.dev/assets/Resume.pdf](https://sysa.pages.dev/assets/Resume.pdf)**
+👨‍💻 All of my projects are available at **[https://sysa.pages.dev/projects/](https://sysa.pages.dev/projects/)**  
+📝 I write articles on **[https://sysa.pages.dev/blog/](https://sysa.pages.dev/blog/)**  
+📄 Know about my experiences **[https://sysa.pages.dev/assets/Resume.pdf](https://sysa.pages.dev/assets/Resume.pdf)**
 
 ### Connect with me:
 
